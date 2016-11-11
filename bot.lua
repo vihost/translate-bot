@@ -1,4 +1,4 @@
-﻿HTTP = require('socket.http')
+HTTP = require('socket.http')
 HTTPS = require('ssl.https')
 URL = require('socket.url')
 JSON = (loadfile "./libs/dkjson.lua")()
