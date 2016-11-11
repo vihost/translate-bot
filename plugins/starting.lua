@@ -1,4 +1,4 @@
-﻿local triggers = {
+local triggers = {
 		'^/(start)$',
 		'^/(contact) (.+)$',
 		'^/(pm) (%d+)', 
